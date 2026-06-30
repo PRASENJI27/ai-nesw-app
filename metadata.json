@@ -1,0 +1,6 @@
+{
+  "name": "COSMOQ AI News Agent",
+  "description": "A next-generation AI curation workspace and news agent that discovers, summarizes, and analyzes artificial intelligence breakthroughs using real-time search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
